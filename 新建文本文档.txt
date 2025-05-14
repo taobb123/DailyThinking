@@ -1,0 +1,41 @@
+
+Cursor能通过添加API的日志快速定位出问题的代码并自动改正，你甚至不需要读懂（当然能读懂错误更好，这有助于不犯同样的错误），只要把相关的完整代码发给Cursor
+
+
+
+
+
+
+
+git push -u origin main
+
+# 检查当前分支
+git branch
+
+# 如果你当前是在 master 分支，切换到 main
+git checkout main
+
+# 更新远程分支设置
+git pull origin main
+
+# 如果本地 main 没有任何改动，推送到远程
+git push origin main
+
+
+
+
+cd your-local-project-folder
+
+git init
+
+git remote add origin https://github.com/taobb123/DailyThinking.git
+
+git remote set-url origin git@github.com:taobb123/DailyThinking.git
+
+
+# 测试 SSH 连接（确认成功）
+ssh -T git@github.com
+
+# 推送代码（如果是第一次推送）
+git push -u origin main  # 或 master，视你的分支名而定
+git push -u origin master  # 或者 main，具体看默认分支名
