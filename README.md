@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/999be14f-79bb-4dff-8b3f-a2bfdf00fead)![image](https://github.com/user-attachments/assets/196c74bf-4275-4de2-b123-143be90924ac)# DailyThinking
+
 ### 2025/5/12
 
 思维的本质是什么？古希腊有位哲人说思想是”火“，我非常赞同。
