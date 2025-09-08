@@ -1,3 +1,8 @@
+ 爬虫运行顺序 ： python run_scraper.py --mode real --count 6 ; python merge_scraped_data.py ; python modular_data_updater.py merged_scraped_data.json
+
+
+
+
 ![image](https://github.com/user-attachments/assets/e1ef5774-3897-4a2e-bbf1-9c100027491e)
 ### 2025/5/12
 
