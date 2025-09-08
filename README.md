@@ -1,6 +1,6 @@
 
  ### scraper-2025-9-8.zip爬虫命令运行顺序 ：
- 'python run_scraper.py --mode real --count 6 '
+ ' python run_scraper.py --mode real --count 6 '
  ; python merge_scraped_data.py ; python modular_data_updater.py merged_scraped_data.json
 
 
